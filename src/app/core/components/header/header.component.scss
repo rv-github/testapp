@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  border-bottom-style: solid;
+  border-bottom-color: antiquewhite;
+}
+
+.active, .nav-item:hover {
+  border-bottom: (2px solid rgb(216, 209, 209));
+}
+
